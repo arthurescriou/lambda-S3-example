@@ -1,0 +1,6 @@
+{
+  "queryStringParameters": {
+    "content": "thisisthecontentwith queryStringParameters",
+    "file": "teest.txt"
+  }
+}
